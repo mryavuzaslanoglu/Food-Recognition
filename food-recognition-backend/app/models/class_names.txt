@@ -1,0 +1,101 @@
+apple_pie|Elmalı Turta
+baby_back_ribs|Domuz Kaburga
+baklava|Baklava
+beef_carpaccio|Dana Carpaccio
+beef_tartare|Dana Tartar
+beet_salad|Pancar Salatası
+beignets|Beignets Çöreği
+bibimbap|Bibimbap
+bread_pudding|Ekmek Tatlısı
+breakfast_burrito|Kahvaltı Burritosu
+bruschetta|Bruschetta
+caesar_salad|Sezar Salatası
+cannoli|Cannoli
+caprese_salad|Caprese Salatası
+carrot_cake|Havuçlu Kek
+ceviche|Ceviche
+cheese_plate|Peynir Tabağı
+cheesecake|Cheesecake
+chicken_curry|Tavuk Körü
+chicken_quesadilla|Tavuklu Quesadilla
+chicken_wings|Tavuk Kanadı
+chocolate_cake|Çikolatalı Pasta
+chocolate_mousse|Çikolatalı Mus
+churros|Churros
+clam_chowder|İstiridye Çorbası
+club_sandwich|Kulüp Sandviç
+crab_cakes|Yengeç Köftesi
+creme_brulee|Crème Brûlée
+croque_madame|Croque Madame
+cup_cakes|Cupcake
+deviled_eggs|Yumurta Dolması
+donuts|Donut
+dumplings|Mantı
+edamame|Edamame
+eggs_benedict|Eggs Benedict
+escargots|Salyangoz
+falafel|Falafel
+filet_mignon|Filet Mignon
+fish_and_chips|Balık ve Patates
+foie_gras|Kaz Ciğeri
+french_fries|Patates Kızartması
+french_onion_soup|Fransız Soğan Çorbası
+french_toast|Fransız Tostu
+fried_calamari|Kalamar Kızartması
+fried_rice|Pilav
+frozen_yogurt|Dondurulmuş Yoğurt
+garlic_bread|Sarımsaklı Ekmek
+gnocchi|Gnocchi
+greek_salad|Yunan Salatası
+grilled_cheese_sandwich|Peynirli Tost
+grilled_salmon|Izgara Somon
+guacamole|Guacamole
+gyoza|Gyoza
+hamburger|Hamburger
+hot_and_sour_soup|Ekşili Acı Çorba
+hot_dog|Hot Dog
+huevos_rancheros|Huevos Rancheros
+hummus|Humus
+ice_cream|Dondurma
+lasagna|Lazanya
+lobster_bisque|Istakoz Çorbası
+lobster_roll_sandwich|Istakozlu Sandviç
+macaroni_and_cheese|Peynirli Makarna
+macarons|Macaron
+miso_soup|Miso Çorbası
+mussels|Midye
+nachos|Nachos
+omelette|Omlet
+onion_rings|Soğan Halkası
+oysters|İstiridye
+pad_thai|Pad Thai
+paella|Paella
+pancakes|Krep
+panna_cotta|Panna Cotta
+peking_duck|Pekin Ördeği
+pho|Pho
+pizza|Pizza
+pork_chop|Domuz Pirzolası
+poutine|Poutine
+prime_rib|Dana Kaburga
+pulled_pork_sandwich|Pulled Pork Sandviç
+ramen|Ramen
+ravioli|Ravioli
+red_velvet_cake|Red Velvet Pasta
+risotto|Risotto
+samosa|Samosa
+sashimi|Sashimi
+scallops|Deniz Tarağı
+seaweed_salad|Deniz Yosunu Salatası
+shrimp_and_grits|Karidesli Mısır Lapası
+spaghetti_bolognese|Spagetti Bolognese
+spaghetti_carbonara|Spagetti Carbonara
+spring_rolls|Çin Böreği
+steak|Biftek
+strawberry_shortcake|Çilekli Pasta
+sushi|Suşi
+tacos|Tako
+takoyaki|Takoyaki
+tiramisu|Tiramisu
+tuna_tartare|Ton Balığı Tartar
+waffles|Waffle
